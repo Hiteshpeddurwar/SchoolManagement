@@ -8,6 +8,8 @@
 		<version>3.0.2</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
+ <!-- Changes by DEVUSA HITESH -->
+	</parent>
 	<groupId>com.Hitesh</groupId>
 	<artifactId>AdditionApplication</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
